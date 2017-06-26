@@ -4,13 +4,13 @@ A kibana plugin adding app that visualize elasticsearch shard allocation
 ![image](screenshots/main.png)
 
 ## Compatibility
-This plugin support kibana 5.0.x - 5.2.0.
+This plugin support kibana 5.0.x - 5.4.1.
 
 ## Installation
 
-### Kibana 5.2.0:
+### Kibana 5.4.1:
 ```
-bin/kibana-plugin install https://github.com/asileon/kibana_shard_allocation/releases/download/v5.2.0/release.zip
+bin/kibana-plugin install https://github.com/Opticsponge/kibana_shard_allocation/releases/tag/5.4.2
 ```
 
 ### Other kibana versions:
